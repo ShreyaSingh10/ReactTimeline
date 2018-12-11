@@ -1,0 +1,52 @@
+.parent{
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.circle_green {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: green;
+}
+
+.line_green{
+	width: 2px;
+	height: 50px;
+	background: green;
+	margin-left: 10px;
+}
+.circle_grey {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: lightgrey;
+}
+
+.line_grey{
+	width: 2px;
+	height: 50px;
+	background: lightgrey;
+	margin-left: 10px;
+}
+
+.text{
+	height: 50px;
+	width: 600px;
+	padding-left: 20px;
+}
+
+.box{
+	height: 300px;
+	width: 300px;
+	background: red;
+}
+.date_black, .info1_black, .info2_black{
+	color: black;
+}
+.date_grey, .info1_grey, .info2_grey{
+	color: lightgrey;
+}
+.info1_black, .info1_grey{
+	font-weight: 600;
+}
